@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192339609211",
+    "project_id": "ei-acc",
+    "storage_bucket": "ei-acc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192339609211:android:5e37359dfeea09e196c4de",
+        "android_client_info": {
+          "package_name": "com.example.estetica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192339609211-v1du47nb7ud7esvkl8ehpc7pe4mia4c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estetica",
+            "certificate_hash": "0d58a12ba059f823cd592384d6f56952becaec8c"
+          }
+        },
+        {
+          "client_id": "192339609211-gmrn85krsqfqbthd9t191lm0t43mk3uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGLpmB0vWhfhWfca7jjxY4xj0x5uIOy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192339609211-gmrn85krsqfqbthd9t191lm0t43mk3uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

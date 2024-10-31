@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Estética ACC</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="cabello1">Opción de peinado 1</string>
+    <string name="cabello2">Opción de peinado 2</string>
+    <string name="cabello3">Opción de peinado 3</string>
+    <string name="cabello4">Opción de peinado 4</string>
+    <string name="cabello5">Opción de peinado 5</string>
+    <string name="cabello6">Opción de peinado 6</string>
+    <string name="cabello7">Opción de peinado 7</string>
+    <string name="cabello8">Opción de peinado 8</string>
+    <string name="cabello9">Opción de peinado 9</string>
+
+    <string name="c1Titulo">Semi largo recto</string>
+    <string name="c2Titulo">Corto</string>
+    <string name="c3Titulo">Semi largo opción 1</string>
+    <string name="c4Titulo">Semi largo opción 2</string>
+    <string name="c5Titulo">Peinado bollo</string>
+    <string name="c6Titulo">Con fleco</string>
+    <string name="c7Titulo">Largo recto</string>
+    <string name="c8Titulo">Pixie semi largo</string>
+    <string name="c9Titulo">Largo</string>
+
+    <string name="unas1">Opción de uñas 1</string>
+    <string name="unas2">Opción de uñas 2</string>
+    <string name="unas3">Opción de uñas 3</string>
+    <string name="unas4">Opción de uñas 4</string>
+    <string name="unas5">Opción de uñas 5</string>
+    <string name="unas6">Opción de uñas 6</string>
+    <string name="unas7">Opción de uñas 7</string>
+    <string name="unas8">Opción de uñas 8</string>
+    <string name="unas9">Opción de uñas 9</string>
+
+    <string name="u1Titulo">Acrílicas</string>
+    <string name="u2Titulo">Porcelana</string>
+    <string name="u3Titulo">Esculpidas</string>
+    <string name="u4Titulo">Solares</string>
+    <string name="u5Titulo">De gel</string>
+    <string name="u6Titulo">Ovaladas</string>
+    <string name="u7Titulo">Stiletto</string>
+    <string name="u8Titulo">Squoval</string>
+    <string name="u9Titulo">Edge</string>
+
+</resources>
