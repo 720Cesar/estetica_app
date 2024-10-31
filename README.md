@@ -10,5 +10,6 @@ La aplicación puede ser descargada para su testeo. Sin embargo, los servicios d
 en la aplicación deben ser cambiadas con el fin de probar la funcionalidad con datos propios. 
 
 # Demo
-Se incluye un vídeo demostración del funcionamiento de la aplicación móvil. 
+Se incluye un vídeo demostración en YouTube del funcionamiento de la aplicación móvil. 
+
 [![Alt text](https://img.youtube.com/vi/HZgQSdjvTZQ/0.jpg)](https://www.youtube.com/watch?v=HZgQSdjvTZQ)
